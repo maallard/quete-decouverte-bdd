@@ -1,8 +1,8 @@
 # quete-decouverte-bdd
 
-## Liens m'ayant permis de faire l'exercice
+## Liens 
 
-Voici des liens qui m'ont aidé :
+Voici des liens qui m'ont aidé pour la quête:
 - [Sur l'héritage](https://merise.developpez.com/faq/?page=MLD#Comment-transformer-l-heritage-les-sous-types-du-MCD-dans-le-MLD)
 - [Encore sur l'héritage](https://www.developpez.net/forums/d941380/general-developpement/alm/methodes/merise/notion-d-heritage-mcd/)
 - [Outil de déssin](https://www.draw.io/)
