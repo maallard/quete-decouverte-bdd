@@ -18,7 +18,7 @@
     
 ## MCD-MLD-MPD
 
-![schéma](schema.jpg)
+![schéma](MCD-MLD-MPD.jpg)
 
 Voici des liens qui m'ont aidé :
 - [Sur l'héritage](https://merise.developpez.com/faq/?page=MLD#Comment-transformer-l-heritage-les-sous-types-du-MCD-dans-le-MLD)
